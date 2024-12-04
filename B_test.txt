@@ -1,0 +1,7 @@
+test
+<<<<<<< Updated upstream
+B개발자
+=======
+B개발자 추가
+>>>>>>> Stashed changes
+BBB
